@@ -1,4 +1,4 @@
-## Hi there 👋👋👋
+<h1 align='center'><samp><strong>Welcome to my page 👋👋👋</strong></samp></h1>
 
 My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Data Engineering. <br>
 
@@ -6,13 +6,13 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinhQuan805" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=MinhQuan805&&rank_icon=github&show_icons=true&theme=darcula" alt="GitHub Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🚀 My Projects
 
 <a href="https://github.com/MinhQuan805/Investo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
 </a>
