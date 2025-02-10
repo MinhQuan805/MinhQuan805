@@ -5,5 +5,5 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/]([https://www.linkedin.com/in/qu%C3%A2n-v%C3%B5-821704325/](https://www.linkedin.com/in/qu%C3%A2n-v%C3%B5-821704325/)))
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MinhQuan](https://github-readme-stats.vercel.app/api?username=MinhQuan805)](https://github.com/anuraghazra/github-readme-stats)
 
