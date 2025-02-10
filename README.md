@@ -8,6 +8,6 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
 <p align="center">
   <img "src="https://github-readme-stats.vercel.app/api?username=MinhQuan805" alt="GitHub Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img " src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact" alt="Top Languages">
+  <img "src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact" alt="Top Languages">
 </p>
 
