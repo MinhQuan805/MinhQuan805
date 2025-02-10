@@ -1,10 +1,8 @@
 ## Hi there 👋👋👋
 
-My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
-## 📫 How to reach me: 
+My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Data Engineering. <br>
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)  
-[![Gmail](https://upload.wikimedia.org/wikipedia/commons/8/8c/Gmail_Logo.svg) Gmail](mailto:minhquanvo2006@gmail.com)
+## **📫 Contact me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)  
 
 
 <p align="center">
@@ -13,3 +11,8 @@ My name is Viet Nguyen. I am an M.Sc. in Computer Science, majoring in Artificia
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact" alt="Top Languages">
 </p>
 
+## 🚀 My Projects
+
+<a href="https://github.com/MinhQuan805/Investo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=transparent" />
+</a>
