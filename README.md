@@ -16,7 +16,7 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 <a href="https://github.com/MinhQuan805/Investo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
 </a>
-<a href="https://github.com/tuanwannafree/Cafe-Mate">
+<a href="https://github.com/MinhQuan805/Commerce">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Commerce&theme=great-gatsby" />
 </a>
 <a href="https://github.com/HungLyonLuudepythoin/webdev2025">
