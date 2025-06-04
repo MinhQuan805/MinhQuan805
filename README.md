@@ -17,7 +17,7 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
 </a>
 <a href="https://github.com/tuanwannafree/Cafe-Mate">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tuanwannafree&repo=Cafe-Mate&theme=great-gatsby" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Commerce&theme=great-gatsby" />
 </a>
 <a href="https://github.com/HungLyonLuudepythoin/webdev2025">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HungLyonLuudepythoin&repo=webdev2025&theme=great-gatsby" />
