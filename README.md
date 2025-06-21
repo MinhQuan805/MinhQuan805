@@ -1,6 +1,6 @@
 <h1 align='center'><samp><strong>Welcome to my page 👋👋👋</strong></samp></h1>
 
-My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Data Engineering. <br>
+My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Software Engineering. <br>
 
 ## **📫 Contact me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)  
 
