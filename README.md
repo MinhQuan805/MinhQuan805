@@ -8,6 +8,7 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MinhQuan805&&rank_icon=github&show_icons=true&theme=darcula" alt="GitHub Stats">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinhQuan805&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
 ## 🚀 My Projects
