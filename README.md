@@ -4,7 +4,7 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 
 ## 📫 Contact me: 
 ### [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/v%C3%B5-minh-qu%C3%A2n-821704325/)  
-### [![My Website]([https://i.stack.imgur.com/gVE0j.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpF5FsSOVBpfQyEINmZSz6SgPmoZRIIhe40qUowc13d20hQf6zNbfyytS4DCYwPxu2w8o&usqp=CAU)) My Website] [My Website](https://quannotes.vercel.app)
+### [![My Website](https://res.cloudinary.com/djq2uk7fw/image/upload/w_18,h_18/v1758367956/blog_uhluei.png) My Website](https://quannotes.vercel.app)
 
 ---
 
