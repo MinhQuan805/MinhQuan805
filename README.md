@@ -1,8 +1,8 @@
 <h1 align='center'><samp><strong>Welcome to my page 👋👋👋</strong></samp></h1>
 
-My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Data Engineering. <br>
+My name is Minh Quan. I am studying Information Systems at UIT. I am interested in the following topics: Software Engineer. <br>
 
-## **📫 Contact me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/)  
+## **📫 Contact me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn]([https://www.linkedin.com/in/vietnguyen-tum/](https://www.linkedin.com/in/v%C3%B5-minh-qu%C3%A2n-821704325/)  
 
 
 <p align="center">
@@ -12,13 +12,12 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 </p>
 
 ## 🚀 My Projects
-
+<a href="https://github.com/HungLyonLuudepythoin/webdev2025">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HungLyonLuudepythoin&repo=webdev2025&theme=great-gatsby" />
+</a>
 <a href="https://github.com/MinhQuan805/Investo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
 </a>
-<a href="https://github.com/MinhQuan805/Commerce">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Commerce&theme=great-gatsby" />
-</a>
-<a href="https://github.com/HungLyonLuudepythoin/webdev2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HungLyonLuudepythoin&repo=webdev2025&theme=great-gatsby" />
+<a href="https://github.com/MinhQuan805/PersonalWebFE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Portfolio&theme=great-gatsby" />
 </a>
