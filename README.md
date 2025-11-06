@@ -21,8 +21,8 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 <a href="https://github.com/MinhQuan805/PersonalWebFE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=PersonalWebFE&theme=great-gatsby" />
 </a>
-<a href="https://github.com/MinhQuan805/VietBookLM">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=VietBookLM&theme=blue-green" />
+<a href="https://github.com/MinhQuan805/NoteFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=NoteFlow&theme=blue-green" />
 </a>
 <a href="https://github.com/MinhQuan805/Investo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
