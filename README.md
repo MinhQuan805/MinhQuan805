@@ -15,14 +15,14 @@ My name is Minh Quan. I am studying Information Systems at UIT. I am interested 
 </p>
 
 ## 🚀 My Projects
-<a href="https://github.com/HungLyonLuudepythoin/webdev2025">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HungLyonLuudepythoin&repo=webdev2025&theme=great-gatsby" />
+<a href="https://github.com/MinhQuan805/NoteFlow">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=NoteFlow&theme=blue-green" />
+</a>
+<a href="https://github.com/HnggLuu2624/origin">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HnggLuu2624&repo=origin&theme=great-gatsby" />
 </a>
 <a href="https://github.com/MinhQuan805/PersonalWebFE">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=PersonalWebFE&theme=great-gatsby" />
-</a>
-<a href="https://github.com/MinhQuan805/NoteFlow">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=NoteFlow&theme=blue-green" />
 </a>
 <a href="https://github.com/MinhQuan805/Investo">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MinhQuan805&repo=Investo&theme=tokyonight" />
